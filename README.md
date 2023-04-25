@@ -1,10 +1,10 @@
 ### ACADEMIC REFERENCES TO BE CITED
 
-
+Details of the code in the article by Alexandre Corazza, Pauline Muleki-Seya, Adrian Basarab and Barbara Nicolas.
 
 ### How to use it ?
 
-This work is a patch for the PALA toolbox. To use it, download first the PALA toolbox available at https://github.com/AChavignon/PALA
+This work is a patch for the PALA toolbox. To use it, download first the PALA toolbox available at https://github.com/AChavignon/PALA/tree/master/PALA
 
 The method to detect microbubbles (MBs) is based on intensity threshold in the PALA toolbox. If you want to use detection methods as normalized cross-correlation or Neyman-Pearson based one, replace the file "PALA/PALA_addons/ULM_toolbox/ULM_localization2D.m" of the PALA toolbox by the file ULM_localization2D.m on this GitHub page.
 
