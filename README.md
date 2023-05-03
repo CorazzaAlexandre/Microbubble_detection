@@ -4,11 +4,11 @@ Details of the code in the article by Alexandre Corazza, Pauline Muleki-Seya, Ad
 
 ### How to use it ?
 
-This work is a patch for the PALA toolbox. To use it, download first the PALA toolbox available at https://github.com/AChavignon/PALA/tree/master/PALA
+This work is a patch for the PALA toolbox. To use it, download the PALA toolbox available at https://github.com/AChavignon/PALA/tree/master/PALA
 
 The method to detect microbubbles (MBs) is based on intensity threshold in the PALA toolbox. If you want to use detection methods as normalized cross-correlation or Neyman-Pearson based one, replace the file "PALA/PALA_addons/ULM_toolbox/ULM_localization2D.m" of the PALA toolbox by the file ULM_localization2D.m proposed on this GitHub page.
 
-I recommand to test it on the PALA_VivoMulti.m script, where the function ULM_localization2D in used in PALA_multiULM. You have to add the corresponding parameters for the detection methods (preferably after the ULM parameters section in the PALA_VivoMulti.m code). An example is given below.
+I recommand to test it on the PALA_VivoMulti.m script, where the function ULM_localization2D is used in PALA_multiULM. You have to add the corresponding parameters for the detection methods (preferably after the ULM parameters section in the PALA_VivoMulti.m code). An example is given below.
 
 ### Example
 ```matlab
