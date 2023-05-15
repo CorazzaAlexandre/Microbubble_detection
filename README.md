@@ -1,6 +1,6 @@
 ### ACADEMIC REFERENCES TO BE CITED
 
-Details of the code in the article by Alexandre Corazza, Pauline Muleki-Seya, Adrian Basarab and Barbara Nicolas, Microbubble identification based on decision theory for ultrasound localization microscopy, OJ-UFFC 2023
+Details of the code in the article by Alexandre Corazza, Pauline Muleki-Seya, Adrian Basarab and Barbara Nicolas, [*Microbubble identification based on decision theory for ultrasound localization microscopy*, IEEE OJ-UFFC 2023](https://doi.org/10.1109/OJUFFC.2023.3274512)
 
 ### How to use it ?
 
