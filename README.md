@@ -47,4 +47,4 @@ ULM.parameters.NP_alpha0 = 0.1/100
 
 ### Contact
 
-Don't hesitate to contact me for any question: Alexandre.Corazza@creatis.insa-lyon.fr
+Don't hesitate to contact me for any question: Alexandre.Corazza@ensta-bretagne.org
